@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<credentials>
+  <user name="joe@acme.com" passwordhash="boy" roles="Users,Administrators" securitystamp="f848867d-878f-438a-99a9-3b4af737f235" />
+  <user name="jane@acme.com" passwordhash="girl"  roles="Users" securitystamp="5558867d-878f-438a-99a9-3b4af737f235"/>
+</credentials>
